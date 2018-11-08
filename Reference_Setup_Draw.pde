@@ -5,5 +5,5 @@ background(255); }
 
 void draw () {
   fill(100,200,200);
-  rect(mouseX,mouseY,50,50);
+  rect(mouseX,mouseY,50,50);}
   
